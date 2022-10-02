@@ -1,5 +1,8 @@
 # conch-shell
 Connection through music and images
+![conch](https://user-images.githubusercontent.com/53590565/193462928-f8d07985-e6a8-4484-9635-ba5771f1a95e.jpg)
+![coraline](https://user-images.githubusercontent.com/53590565/193462958-6e7dbdfe-e06b-4575-aa2f-d1e8a6cef1b9.png)
+
 
 Find the demo at https://www.youtube.com/watch?v=RkCEvIl7Wpc
 
