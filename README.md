@@ -1,7 +1,7 @@
 # conch-shell
 Connection through music and images
 ![conch](https://user-images.githubusercontent.com/53590565/193462928-f8d07985-e6a8-4484-9635-ba5771f1a95e.jpg)
-
+Kudos on our beloved designer: Deva Yao 👏
 
 Find the demo at https://www.youtube.com/watch?v=RkCEvIl7Wpc
 
